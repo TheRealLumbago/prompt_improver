@@ -36,7 +36,7 @@ pip install streamlit langchain-openai langchain-core
 your-openai-api-key-here
 ```
 
-**Important:** The `.openai` file is already included in `.gitignore` to protect your API key. Never commit your API key to version control.
+
 
 ## Usage
 
