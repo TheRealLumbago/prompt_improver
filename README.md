@@ -22,7 +22,7 @@ A Streamlit web application that transforms user prompts into more engaging, det
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/TheRealLumbago/prompt_improver.git
 cd prompt_improve
 ```
 
